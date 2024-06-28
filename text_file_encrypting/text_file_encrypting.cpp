@@ -618,6 +618,7 @@ int main() {
     return 0;
 }
 
+
 inline void TextEditor::run() {
     int command;
     while (true) {
